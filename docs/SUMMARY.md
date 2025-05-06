@@ -2,6 +2,6 @@
 
 * [Miss Minutes](README.md)
 
-## Group 1
+## Introduction
 
-* [Page 1](group-1/page-1.md)
+* [Intro Face](introduction/intro-face.md)
