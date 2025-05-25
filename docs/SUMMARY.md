@@ -5,4 +5,4 @@
 ## Introduction
 
 * [Introduction](introduction/intro-face.md)
-* [Introduction V-1.1](introduction/v1_1_intro.md)
+* [LLaMA Model Detour 🦙 🦙](introduction/v1_1_intro.md)

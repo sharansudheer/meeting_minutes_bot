@@ -1,12 +1,6 @@
-# LLaMA Model Detour 🦙 🦙- 
+# LLaMA Model Detour 🦙 🦙
 
-### Introduction:-&#x20;
+* 1.1.0 being, the intended Research Oriented Model Creation has hit a Hardware Road Block -
+* SOO - 1.0.0 is Cached for now, Hot Reload V 1.1
 
-Version 1.1.0 - The Beginning&#x20;
-
-* 1.1.0 being, the intented Research Oriented Model Creation has hit a Hardware Road Block - 
-
-* SOO - 1.0.0 Cached, 
-
-### Version 1.1 - 
-
+### Version 1.1 -
