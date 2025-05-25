@@ -8,3 +8,6 @@
 #### Sources -&#x20;
 
 * [https://github.com/meta-llama/llama-models/blob/main/models/llama3\_2/MODEL\_CARD\_VISION.md](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD_VISION.md)
+* [https://github.com/meta-llama/llama-models/tree/main](https://github.com/meta-llama/llama-models/tree/main)
+* [https://github.com/meta-llama/llama-cookbook/tree/main/getting-started/inference/local_inference](https://github.com/meta-llama/llama-cookbook/tree/main/getting-started/inference/local_inference)
+* [https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2/](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2/)
