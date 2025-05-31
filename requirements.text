@@ -1,2 +1,4 @@
 Flask~=3.1.0
-
+Jinja2~=3.0.2
+flask-WTF~=3.1.0
+llama-cpp-python~=0.3.9

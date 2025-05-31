@@ -177,3 +177,5 @@ cython_debug/
 *.iml
 .DS_Store
 .DS_Store?
+
+models/Llama3.2-3B-Instruct-int4-qlora-eo8
